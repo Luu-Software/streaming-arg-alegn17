@@ -77,3 +77,11 @@ a {
   box-shadow: 0px 6.667px 26.667px 0px rgba(27, 27, 27, 0.25),2.6px -2.68px 26.667px 0px rgba(214, 214, 214, 0.17) inset,-4.018px 4.018px 4.018px 0px rgba(255, 255, 255, 0.39) inset;
   backdrop-filter: blur(49.61956024169922px);
 }
+
+.signatures {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 24px;
+  color: #7363D3;
+}
