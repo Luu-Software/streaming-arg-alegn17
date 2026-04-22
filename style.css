@@ -85,3 +85,9 @@ a {
   font-size: 24px;
   color: #7363D3;
 }
+
+footer {
+  margin-left: 108px;
+  margin-right: 108px;
+  padding-top: 50px;
+}
